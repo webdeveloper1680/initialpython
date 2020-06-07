@@ -1,0 +1,40 @@
+body{
+ background-image:linear-gradient(360deg,#07a3ff,#009688);
+
+
+}
+header{
+ text-align: center;
+ padding: 10px;
+ background-image: url("https://cdn2.vectorstock.com/i/1000x1000/76/01/abstract-technology-blue-color-triangles-and-low-vector-21157601.jpg");
+ color: rgba(255,255,255,1);
+}
+section.one{
+  background-image:linear-gradient(45deg,#03A9F4,#00000096);
+
+}
+
+section.one>h2{
+  margin:0;
+  
+
+}
+
+section.one>p{
+  margin:0;
+  padding:5px;
+  font-size:large;
+
+}
+
+footer>span{
+ font-size:x-large;
+}
+
+footer>a{
+ color:#FFEB3B;
+ padding:1%;
+ margin:0 auto;
+ background-color:rgba(158,158,158,0.46);
+ text-decoration:none;
+}
